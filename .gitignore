@@ -1,0 +1,15 @@
+# .gitignore
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+*.envs
+*.salt
+.venv/
+venv/
+dist/
+build/
+*.egg-info/
+.pytest_cache/
+.DS_Store
