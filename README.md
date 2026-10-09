@@ -22,5 +22,6 @@ This tool follows a professional pipeline:
 
 ## Security Disclaimer
 This tool is built for educational purposes and personal file security. When using it in production, ensure that:
-1. **Your *.salt files are stored securely alongside the encrypted files.
-2. **You use strong, unique passwords for key derivation.
+- **Secure Salt Storage:** Ensure `*.salt` files are stored securely alongside the encrypted files.
+- **Strong Passwords:** Always use strong, unique passwords for key derivation.
+
